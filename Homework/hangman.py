@@ -1,3 +1,9 @@
+#File: hangman.py
+#Student: Esteban Cornejo
+#
+#Date: October 4, 2024
+#Description of Program: This program is a part of an assignment that lets the user play a game of hangman.
+#GitHub: ejcornejo
 import random
 
 wrds = ["python", "programming", "computer", "hangman", "loops", "functions", "conditionals", "boolean"]
