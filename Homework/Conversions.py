@@ -1,3 +1,10 @@
+#File: hangman.py
+#Student: Esteban Cornejo
+#
+#Date: October 8, 2024
+#Description of Program: This program is a program that takes the user's input of feet and inches and converts it to
+# a bunch of different units. Such as yards, miles, meters, centimeters, millimeters, and kilometers.
+#GitHub: ejcornejo
 def main():
     
     #Ask the user to input feet and inches
