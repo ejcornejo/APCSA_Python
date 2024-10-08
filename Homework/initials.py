@@ -7,19 +7,18 @@
 
 
 def intials():
-    print('EEEEEEEEEEEEEEEEEE         JJJJJJJJJJJJJJ          CCCCCCCCCCCCC')
-    print('EEEEEEEEEEEEEEEEEE         JJJJJJJJJJJJJJ        CCCCCCCCCCCCCCCC')
-    print('EEE                               JJJ          CCCCC')
-    print('EEE                               JJJ          CCC')
-    print('EEE                               JJJ          CCC')
-    print('EEE                               JJJ          CCC')
-    print('EEEEEEEEEEEEEE                    JJJ          CCC')
-    print('EEEEEEEEEEEEEE                    JJJ          CCC')
-    print('EEE                               JJJ          CCC')
-    print('EEE                               JJJ          CCC')
-    print('EEE                    J          JJJ          CCC')
-    print('EEE                    JJ         JJJ          CCCCC')
-    print('EEEEEEEEEEEEEEEEEE ..  JJJJJJJJJJJJJJ    ..      CCCCCCCCCCCCCCCC ..')
-    print('EEEEEEEEEEEEEEEEEE ..   JJJJJJJJJJJ      ..        CCCCCCCCCCCCC  ..')
+    #This program is used to spell out my initials. My intials are E.J.C.
+    print('EEEEEEEEEEEE                  JJJ               CCCCCCCC ')
+    print('EEEEEEEEEEEE                  JJJ             CCCCCCCCCCC')
+    print('EEE                           JJJ            CCC')
+    print('EEE                           JJJ            CC')
+    print('EEE                           JJJ            CC')
+    print('EEEEEEEEE                     JJJ            CC')
+    print('EEEEEEEEE                     JJJ            CC')
+    print('EEE                           JJJ            CC')
+    print('EEE                           JJJ            CC')
+    print('EEE                           JJJ            CCC')
+    print('EEEEEEEEEEEE ..      JJ       JJJ ..         CCCCCCCCCCCC..')
+    print('EEEEEEEEEEEE ..       JJJJJJJJJJ  ..           CCCCCCCCC ..')
     
 intials()
