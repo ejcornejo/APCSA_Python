@@ -7,7 +7,6 @@
 
 
 def intials():
-    #This program is used to spell out my initials. My intials are E.J.C.
     print('EEEEEEEEEEEE                  JJJ               CCCCCCCC ')
     print('EEEEEEEEEEEE                  JJJ             CCCCCCCCCCC')
     print('EEE                           JJJ            CCC')
