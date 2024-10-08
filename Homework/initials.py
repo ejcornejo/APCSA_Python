@@ -1,5 +1,12 @@
+#File: initials.py
+#Student: Esteban Cornejo
+#
+#Date: September 4, 2024
+#Description of Program: This program is used to spell out my initials. My initials are E.J.C.
+#GitHub: ejcornejo
+
+
 def intials():
-    #This program is used to spell out my initials. My intials are E.J.C.
     print('EEEEEEEEEEEEEEEEEE         JJJJJJJJJJJJJJ          CCCCCCCCCCCCC')
     print('EEEEEEEEEEEEEEEEEE         JJJJJJJJJJJJJJ        CCCCCCCCCCCCCCCC')
     print('EEE                               JJJ          CCCCC')
