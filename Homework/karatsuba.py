@@ -1,3 +1,10 @@
+#File: initials.py
+#Student: Esteban Cornejo
+#
+#Date: September 13, 2024
+#Description of Program: This program is used to help a user with Karatsuba Multiplication
+#GitHub: ejcornejo
+
 n1 = int(input("Enter a 4-digit integer: "))  
 n2 = int(input("Enter another 4-digit integer: "))  
 
