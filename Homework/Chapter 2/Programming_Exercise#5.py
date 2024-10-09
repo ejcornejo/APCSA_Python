@@ -1,11 +1,3 @@
-#File: Programming_Exercise#5
-#Student: Esteban Cornejo
-#
-#Date: October 8, 2024
-#Description of Program: This program shows the distance that a car
-# travels down the interstate after a certain amount of hours
-#GitHub: ejcornejo
-
 def distance_traveled():
     speed = 70
     time_6 = 6
