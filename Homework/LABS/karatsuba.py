@@ -8,25 +8,21 @@
 n1 = int(input("Enter a 4-digit integer: "))  
 n2 = int(input("Enter another 4-digit integer: "))  
 
-a = n1 // 100  
+a = n1 // 100 
 b = n1 % 100   
 c = n2 // 100  
 d = n2 % 100   
+e = a * c
+f = b * d
+g = (a + b) * (c + d)
+h = g - e - f
+i = e * 10000
+j = h * 100
+k = i + j + f
 
-print("n1:", n1, "split into", a, "and", b)
-print("n2:", n2, "split into", c, "and", d)
+real_answer = n1 * n2
 
-step1 = a * c
-print("Step 1 (a * c):", step1)
-
-step2 = b * d
-print("Step 2 (b * d):", step2)
-
-step3 = (a + b) * (c + d)
-print("Step 3 ((a + b) * (c + d)):", step3)
-
-step4 = step3 - step1 - step2
-print("Step 4 (Cross terms, step3 - step1 - step2):", step4)
-
-ans = (step1 * 10000) + (step4 * 100) + step2
-print("Final Result:", ans)
+print("________________________________________________________________________________________")
+print("According to Karatsuba Multiplication, the answer is: ", k)
+print()
+print("The actual answer is", real_answer, "which is equal as computed before.")
